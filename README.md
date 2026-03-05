@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/2c/79/79/2c79797f8479ee631db33049d97b91b7.gif" style="width: 100%; max-width: 600px;"/>
+<img src="assets/vaporwave-header.gif" style="width: 100%; max-width: 600px;"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%EF%BC%B6%EF%BC%A1%EF%BC%B0%EF%BC%AF%EF%BC%B2%EF%BC%B7%EF%BC%A1%EF%BC%B6%EF%BC%A5%20%EF%BC%A4%EF%BC%A5%EF%BC%B6&fontSize=25&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=%EF%BD%83%EF%BD%85%EF%BD%8C%EF%BD%8C%EF%BD%89%EF%BD%83%EF%BD%8F%EF%BD%8D&fontSize=45&animation=fadeIn&fontAlignY=40" />
 </p>
 
 # 💫 ＡＢＯＵＴ ＭＥ:
